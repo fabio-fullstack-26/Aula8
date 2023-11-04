@@ -1,15 +1,28 @@
 body{
     text-align: center;
-    background-color: chocolate;
+    background-color: rgb(231, 156, 103);
 }
 p{
-    display: flex;
-    font-size: 20px;
+   
+    font-size: 15px;
+    text-align: center;
     
 }
 
 .box{
-    display: flex;
+    
     width: 45px;
-    margin-left: 350px;
+    margin-left: 150px;
+}
+
+.pre{
+
+    margin: 10px;
+    border-radius: 35;
+    font-size: 20px;
+  
+    
+
+
+
 }
